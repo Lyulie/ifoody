@@ -1,7 +1,7 @@
 package com.lul.foody.di
 
 import com.lul.foody.Constraints.Companion.BASE_URL
-import com.lul.foody.FoodRecipesApi
+import com.lul.foody.data.network.FoodRecipesApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

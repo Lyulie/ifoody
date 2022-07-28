@@ -1,4 +1,4 @@
-package com.lul.foody
+package com.lul.foody.data.network
 
 import com.lul.foody.models.FoodRecipe
 import retrofit2.Response
